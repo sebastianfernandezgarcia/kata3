@@ -8,7 +8,7 @@ public class Kata2 {
         
         //Version 3
         
-       int[] data = {1,2,2,3,3,4,5,1,2,1,2,1,5,6,4};
+       Integer[] data = {1,2,2,3,3,4,5,1,2,1,2,1,5,6,4};
        
         Histogram histo = new Histogram(data);
         
@@ -25,3 +25,5 @@ public class Kata2 {
     }
 }
     
+
+
